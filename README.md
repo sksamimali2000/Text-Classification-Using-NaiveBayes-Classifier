@@ -171,8 +171,4 @@ Install dependencies using:
 
 pip install numpy pandas scikit-learn matplotlib
 
-📄 License
-
-MIT License
-
 Made with ❤️ by Sk Samim Ali
